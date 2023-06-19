@@ -1,3 +1,2 @@
 # MartianRobots
-Martian Robots code challenge
-Link to playground : https://pl.kotl.in/zX3MVlKp5
+Martian Robots code challenge link to playground : https://pl.kotl.in/zX3MVlKp5
